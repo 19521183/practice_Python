@@ -1,2 +1,2 @@
 # practice_Python
-solving basic Python exercises (from hackerrank.com)
+solving basic Python exercises
